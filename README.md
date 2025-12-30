@@ -1,2 +1,3 @@
-# esp32-aqi-monitor
-ESP32-based Air Quality Monitoring System with Web Dashboard, OLED UI, and Telegram Alerts
+# 🌫️ ESP32 Air Quality Monitoring System
+
+A Wi-Fi enabled ESP32-based air quality monitoring system that measures environmental parameters, calculates AQI, displays data locally, serves a live web dashboard, and sends Telegram alerts.
